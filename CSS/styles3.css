@@ -1,0 +1,78 @@
+.main-section {
+  display: flex;
+  padding: 0px 45px;
+}
+
+.left-section {
+  width: 60%;
+  margin: 0px 20px;
+}
+
+.right-section {
+  width: 35%;
+  margin: 0px 20px;
+}
+
+.oneone {
+  font-size: 2rem;
+  color: #a93226;
+  padding-top: 45px;
+}
+
+h2 {
+  font-size: 1.2rem;
+}
+
+h3 {
+  font-size: 1rem;
+  color: #566573;
+}
+
+h4 {
+  font-size: 0.8rem;
+  color: #abb2b9;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+.marks {
+  color: #a93226;
+  padding-left: 63px;
+  text-align: right;
+}
+
+.content1 {
+  display: flex;
+  align-items: center;
+}
+
+td {
+  padding: 12px 0px;
+}
+
+p {
+  padding-top: 9px;
+}
+
+h4 a {
+  text-decoration: none;
+  color: #566573;
+}
+
+.right-side-table {
+  text-align: left;
+}
+
+.circle {
+  padding-left: 3vw;
+}
+
+ion-icon {
+  color: #a93226;
+}
+
+.lang {
+  padding-top: 12px;
+}
