@@ -1,2 +1,2 @@
 # MyWebsite
-##My portfolio website made with HTML and CSS
+My portfolio website made with HTML and CSS
